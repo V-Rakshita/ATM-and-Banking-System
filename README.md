@@ -78,6 +78,7 @@ Create detailed charts that…
 
 # COMMUNICATION DIAGRAM:
 
+<img width="825" height="762" alt="image" src="https://github.com/user-attachments/assets/2f61c9a8-b756-4a2f-ae16-1ddc0c7b026c" />
 
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
@@ -88,6 +89,9 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 # PACKAGE DIAGRAM:
+
+<img width="488" height="258" alt="image" src="https://github.com/user-attachments/assets/44719582-cbea-4799-9b48-ed9b21488838" />
+
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
