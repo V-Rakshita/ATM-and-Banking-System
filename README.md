@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224100049
+# Name: V RAKSHITA
+# Date: 13.05.2026
 
 
 # AIM:
@@ -33,6 +33,9 @@ To develop the ATM and Banking System using Star UML
 
 # USE CASE DIAGRAM
 
+<img width="784" height="693" alt="image" src="https://github.com/user-attachments/assets/dd8b1414-fe34-4b86-97ec-bb98d0d90fee" />
+
+
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
@@ -56,6 +59,9 @@ Specifying the context and requirements of a system
 
 # CLASS DIAGRAM
 
+<img width="862" height="821" alt="image" src="https://github.com/user-attachments/assets/340d80e3-d4e0-449c-ac47-dedfd4994fc2" />
+
+
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
@@ -70,7 +76,9 @@ Create detailed charts that…
 
 
 
-# COMMUNICTION DIAGRAM:
+# COMMUNICATION DIAGRAM:
+
+
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -96,6 +104,9 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 # ACTIVITY DIAGRAM:
 
+<img width="916" height="765" alt="image" src="https://github.com/user-attachments/assets/894316af-3271-4faa-8dfb-67a074841e6b" />
+
+
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -111,6 +122,9 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+
+<img width="917" height="776" alt="image" src="https://github.com/user-attachments/assets/305adf6d-96d4-4f9c-822f-c594579fd033" />
+
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
